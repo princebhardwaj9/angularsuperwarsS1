@@ -7,7 +7,6 @@
     display: grid;
     grid-template-columns: auto auto;
     text-align: center;
-    margin: 0px;
 }
 
 img{
